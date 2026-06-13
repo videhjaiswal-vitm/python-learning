@@ -1,0 +1,77 @@
+Software: It is a set of Programs.
+Program: It is a set of Instructions.
+Instruction: It is a set of Codes.
+
+Compiler: It is used to convert High Level Programming Language into Low Level Language.
+
+Python: It is high level , open source Programming Language.
+
+Designed by: Guido Van Rossum in 20th Feb 1991.
+Developed by: Python Software Foundation.
+
+Old BBC Television Comdey Sketch Series:
+Monty Python's Flying Circus.
+=============================
+Python Applications:
+1.Web Development(python django).
+ex:youtube,Instagram,Spotify,NASA etc.
+=======================
+Website: It is a collection of Web Pages.
+
+Client:It consume services
+Customer:it purchase product
+Server:Service Provider.
+=========================
+
+Front End =======xxxxx==== BackEnd
+==============
+2.Data Science and Data Analytics.
+3.AI, ML.
+4.Cloud Computing
+5.Robotics.
+6.Games.
+7.Web Harvesting.
+=================
+
+Python Features:
+1.It is a platform independent programming Language.
+ex:Windows,Linux,unix,Macbook.
+2.It can connect to almost all databases like MYSQL,Oracle,SQL Server.
+================
+In C,
+int x;
+-------
+variable declaration.
+=====
+Variable:It is a reserved memory location which is used to store data of specific type(datatypes).
+
+ x
+| | 4 bytes
+656786 => memory address
+=========================
+x=10;
+----
+variable initialization
+ x
+|10| 4 bytes
+656786 => memory address
+=========================
+Python Variable:
+It is a dynamically typed.
+
+a=10
+object 10
+565656
+
+a----> 10(obj)
+        m.a 
+a=12.12
+a="Videh Jaiswal"
+
+Pointer: it is used to store memory address.
+int *ptr;
+int a=10;
+ptr=&a;
+==========
+
+b=10
